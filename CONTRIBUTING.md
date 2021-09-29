@@ -44,7 +44,7 @@ If you then still feel the need to ask a question and need clarification, we rec
 We will then take care of the issue as soon as possible.
 
 ## I Want To Contribute
-
+Just create a PR of any addition to any configuration you want to add in existing files uploaded or you can create a new configuration file and submit a PR. In addition please don't forget to add a little comment or readme about your work just for a refrance.
 > ### Legal Notice <!-- omit in toc -->
 > When contributing to this project, you must agree that you have authored 100% of the content, that you have the necessary rights to the content and that the content you contribute may be provided under the project license.
 
